@@ -1,0 +1,179 @@
+# Dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+data/logs/
+*.log.*
+
+# Data files (user-generated)
+data/plans/*.json
+data/metrics/*.json
+!data/plans/.gitkeep
+!data/metrics/.gitkeep
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build outputs
+dist/
+build/
+*.bundle.js
+*.bundle.js.map
+
+# Coverage reports
+coverage/
+.nyc_output/
+*.lcov
+
+# MCP
+mcp/node_modules/
+
+# React/Vite build
+ui/dist/
+ui/build/
+ui/.vite/
+ui/node_modules/
+
+# Test outputs
+test-results/
+*.test.js.snap
+
+# Secrets and keys
+*.pem
+*.key
+*.cert
+secrets/
+credentials/
+
+# API keys and tokens
+.env.api
+api_keys.json
+credentials.json
+
+# User-specific files
+.user.ini
+user-config.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Claude Desktop config (if contains sensitive info)
+# Uncomment if needed:
+# claude_desktop_config.json
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+.netrwhist
+
+# Optional: Uncomment to ignore user profile data
+# tools/userProfileTool/db.json
+
+# Optional: Uncomment to ignore all recipes
+# data/recipes/*.json
+# !data/recipes/.gitkeep
+
