@@ -1,0 +1,18 @@
+{
+  "melani-123": {
+    "id": "melani-123",
+    "name": "Melani Ortega",
+    "email": "melani@example.com",
+    "preferences": {
+      "dietary": [
+        "vegetarian"
+      ],
+      "avoidIngredients": [
+        "tofu",
+        "fish & seafood",
+        "olives"
+      ],
+      "maxCookMins": 30
+    }
+  }
+}

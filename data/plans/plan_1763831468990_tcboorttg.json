@@ -1,0 +1,314 @@
+{
+  "planId": "plan_1763831468990_tcboorttg",
+  "userId": "melani-123",
+  "weekStart": "2025-11-22",
+  "createdAt": "2025-11-22T17:11:08.960Z",
+  "profile": {
+    "id": "melani-123",
+    "name": "Melani Ortega",
+    "preferences": {
+      "dietary": [
+        "vegetarian"
+      ],
+      "avoidIngredients": [
+        "soy",
+        "tofu",
+        "olives",
+        "fish"
+      ],
+      "maxCookMins": 30
+    }
+  },
+  "weekPlan": [
+    {
+      "day": "Monday",
+      "date": "2025-11-22",
+      "dinner": {
+        "id": "r_004",
+        "title": "Zucchini Feta Skillet",
+        "cookTimeMins": 12,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Tuesday",
+      "date": "2025-11-23",
+      "dinner": {
+        "id": "r_008",
+        "title": "Mediterranean Lentil Salad",
+        "cookTimeMins": 10,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Wednesday",
+      "date": "2025-11-24",
+      "dinner": {
+        "id": "r_010",
+        "title": "Roasted Veggie Couscous",
+        "cookTimeMins": 18,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Thursday",
+      "date": "2025-11-25",
+      "dinner": {
+        "id": "r_012",
+        "title": "Balsamic Mushroom Toast",
+        "cookTimeMins": 12,
+        "servings": 1
+      }
+    },
+    {
+      "day": "Friday",
+      "date": "2025-11-26",
+      "dinner": {
+        "id": "r_014",
+        "title": "Gnocchi Spinach Skillet",
+        "cookTimeMins": 15,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Saturday",
+      "date": "2025-11-27",
+      "dinner": {
+        "id": "r_019",
+        "title": "Broccoli Lemon Pasta",
+        "cookTimeMins": 12,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Sunday",
+      "date": "2025-11-28",
+      "dinner": {
+        "id": "r_025",
+        "title": "Chive Cottage Cheese Bowl",
+        "cookTimeMins": 5,
+        "servings": 1
+      }
+    }
+  ],
+  "shoppingList": [
+    {
+      "name": "zucchini",
+      "qtySuggested": "2 cups, sliced, 1 cup, diced",
+      "recipes": [
+        "r_004",
+        "r_010"
+      ]
+    },
+    {
+      "name": "feta cheese",
+      "qtySuggested": "1/2 cup, crumbled, 1/3 cup, crumbled",
+      "recipes": [
+        "r_004",
+        "r_008"
+      ]
+    },
+    {
+      "name": "olive oil",
+      "qtySuggested": "1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp",
+      "recipes": [
+        "r_004",
+        "r_008",
+        "r_010",
+        "r_012",
+        "r_014",
+        "r_019"
+      ]
+    },
+    {
+      "name": "oregano",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_004"
+      ]
+    },
+    {
+      "name": "salt",
+      "qtySuggested": "to taste, to taste",
+      "recipes": [
+        "r_004",
+        "r_010"
+      ]
+    },
+    {
+      "name": "black pepper",
+      "qtySuggested": "to taste",
+      "recipes": [
+        "r_004"
+      ]
+    },
+    {
+      "name": "cooked lentils",
+      "qtySuggested": "1.5 cups",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "red onion",
+      "qtySuggested": "1/4 cup, diced",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "lemon juice",
+      "qtySuggested": "1 tbsp",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "parsley",
+      "qtySuggested": "2 tbsp, chopped",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "couscous",
+      "qtySuggested": "1 cup",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "bell pepper",
+      "qtySuggested": "1 cup, diced",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "paprika",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "wholegrain bread",
+      "qtySuggested": "2 slices",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "mushrooms",
+      "qtySuggested": "1 cup, sliced",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "balsamic vinegar",
+      "qtySuggested": "1 tbsp",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "thyme",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "gnocchi",
+      "qtySuggested": "300g",
+      "recipes": [
+        "r_014"
+      ]
+    },
+    {
+      "name": "spinach",
+      "qtySuggested": "2 cups",
+      "recipes": [
+        "r_014"
+      ]
+    },
+    {
+      "name": "garlic",
+      "qtySuggested": "2 cloves, minced",
+      "recipes": [
+        "r_014"
+      ]
+    },
+    {
+      "name": "parmesan",
+      "qtySuggested": "1/4 cup, 1/4 cup",
+      "recipes": [
+        "r_014",
+        "r_019"
+      ]
+    },
+    {
+      "name": "pasta",
+      "qtySuggested": "200g",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "broccoli",
+      "qtySuggested": "1.5 cups",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "lemon zest",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "cottage cheese",
+      "qtySuggested": "1 cup, 1 cup",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "chives",
+      "qtySuggested": "2 tbsp, chopped, 2 tbsp, chopped",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "cucumber",
+      "qtySuggested": "1/2 cup, diced, 1/2 cup, diced",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "pepper",
+      "qtySuggested": "to taste, to taste",
+      "recipes": [
+        "r_025"
+      ]
+    }
+  ],
+  "feedback": {},
+  "metadata": {
+    "recipesUsed": [
+      "r_004",
+      "r_008",
+      "r_010",
+      "r_012",
+      "r_014",
+      "r_019",
+      "r_025"
+    ],
+    "totalItems": 28
+  }
+}

@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "r_001",
+    "title": "Lemon Herb Quinoa Bowl",
+    "ingredients": [
+      {"name": "quinoa", "qty": "1 cup"},
+      {"name": "cherry tomatoes", "qty": "1 cup, halved"},
+      {"name": "cucumber", "qty": "1/2 cup, diced"},
+      {"name": "fresh parsley", "qty": "1/4 cup, chopped"},
+      {"name": "lemon juice", "qty": "2 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"},
+      {"name": "pepper", "qty": "to taste"}
+    ],
+    "steps": [
+      "Cook quinoa according to package instructions.",
+      "Fluff quinoa and let cool slightly.",
+      "Combine tomatoes, cucumber, and parsley.",
+      "Mix quinoa with vegetables, lemon juice, and olive oil.",
+      "Season with salt and pepper before serving."
+    ],
+    "cookTimeMins": 20,
+    "tags": ["gluten-free", "vegan", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_002",
+    "title": "Spinach Chickpea Stew",
+    "ingredients": [
+      {"name": "chickpeas", "qty": "1 can, drained"},
+      {"name": "fresh spinach", "qty": "3 cups"},
+      {"name": "garlic cloves", "qty": "2, minced"},
+      {"name": "onion", "qty": "1, diced"},
+      {"name": "vegetable broth", "qty": "1.5 cups"},
+      {"name": "smoked paprika", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Sauté onion and garlic in olive oil until soft.",
+      "Add paprika and chickpeas; stir for 1 minute.",
+      "Pour in vegetable broth and simmer for 10 minutes.",
+      "Add spinach and cook until wilted.",
+      "Season with salt and serve warm."
+    ],
+    "cookTimeMins": 25,
+    "tags": ["gluten-free", "vegan", "high-protein"],
+    "servings": 3
+  },
+  {
+    "id": "r_003",
+    "title": "Sweet Potato Coconut Curry",
+    "ingredients": [
+      {"name": "sweet potato", "qty": "2 cups, cubed"},
+      {"name": "coconut milk", "qty": "1 can"},
+      {"name": "red curry paste", "qty": "1 tbsp"},
+      {"name": "lime juice", "qty": "1 tbsp"},
+      {"name": "spinach", "qty": "2 cups"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Simmer sweet potatoes in coconut milk until tender.",
+      "Stir in curry paste and mix well.",
+      "Add spinach and cook until wilted.",
+      "Finish with lime juice and salt."
+    ],
+    "cookTimeMins": 30,
+    "tags": ["gluten-free", "vegan"],
+    "servings": 3
+  },
+  {
+    "id": "r_004",
+    "title": "Zucchini Feta Skillet",
+    "ingredients": [
+      {"name": "zucchini", "qty": "2 cups, sliced"},
+      {"name": "feta cheese", "qty": "1/2 cup, crumbled"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "oregano", "qty": "1 tsp"},
+      {"name": "salt", "qty": "to taste"},
+      {"name": "black pepper", "qty": "to taste"}
+    ],
+    "steps": [
+      "Sauté zucchini in olive oil until golden.",
+      "Sprinkle oregano and season with salt and pepper.",
+      "Top with crumbled feta and warm for 1–2 minutes."
+    ],
+    "cookTimeMins": 12,
+    "tags": ["vegetarian", "quick", "low-carb"],
+    "servings": 2
+  },
+  {
+    "id": "r_005",
+    "title": "Avocado Basil Pasta",
+    "ingredients": [
+      {"name": "wholegrain pasta", "qty": "200g"},
+      {"name": "ripe avocado", "qty": "1"},
+      {"name": "fresh basil", "qty": "1/2 cup"},
+      {"name": "garlic clove", "qty": "1"},
+      {"name": "lemon juice", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"},
+      {"name": "pepper", "qty": "to taste"}
+    ],
+    "steps": [
+      "Boil pasta until al dente.",
+      "Blend avocado, basil, garlic, lemon, salt, and pepper.",
+      "Toss warm pasta with the avocado sauce."
+    ],
+    "cookTimeMins": 15,
+    "tags": ["vegan", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_006",
+    "title": "Crispy Tofu Teriyaki Bowl",
+    "ingredients": [
+      {"name": "firm tofu", "qty": "200g, cubed"},
+      {"name": "broccoli florets", "qty": "1 cup"},
+      {"name": "carrots", "qty": "1 cup, sliced"},
+      {"name": "teriyaki sauce", "qty": "3 tbsp"},
+      {"name": "sesame seeds", "qty": "1 tsp"},
+      {"name": "oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Pan-fry tofu until crispy.",
+      "Add broccoli and carrots; cook until tender.",
+      "Pour in teriyaki sauce and coat well.",
+      "Serve topped with sesame seeds."
+    ],
+    "cookTimeMins": 20,
+    "tags": ["vegetarian", "high-protein"],
+    "servings": 2
+  },
+  {
+    "id": "r_007",
+    "title": "Butternut Sage Risotto",
+    "ingredients": [
+      {"name": "arborio rice", "qty": "1 cup"},
+      {"name": "butternut squash", "qty": "1 cup, cubed"},
+      {"name": "vegetable broth", "qty": "3 cups"},
+      {"name": "fresh sage", "qty": "1 tbsp, chopped"},
+      {"name": "parmesan", "qty": "1/4 cup"},
+      {"name": "butter", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Sauté squash in butter until soft.",
+      "Add rice and stir for 1 minute.",
+      "Gradually add broth while stirring until creamy.",
+      "Mix in sage and parmesan before serving."
+    ],
+    "cookTimeMins": 35,
+    "tags": ["vegetarian", "comfort-food"],
+    "servings": 3
+  },
+  {
+    "id": "r_008",
+    "title": "Mediterranean Lentil Salad",
+    "ingredients": [
+      {"name": "cooked lentils", "qty": "1.5 cups"},
+      {"name": "red onion", "qty": "1/4 cup, diced"},
+      {"name": "feta cheese", "qty": "1/3 cup, crumbled"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "lemon juice", "qty": "1 tbsp"},
+      {"name": "parsley", "qty": "2 tbsp, chopped"}
+    ],
+    "steps": [
+      "Combine lentils, onion, parsley, and feta.",
+      "Whisk lemon juice with olive oil.",
+      "Toss everything together and serve."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["high-protein", "vegetarian", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_009",
+    "title": "Ginger Miso Soup",
+    "ingredients": [
+      {"name": "miso paste", "qty": "1 tbsp"},
+      {"name": "ginger", "qty": "1 tsp, grated"},
+      {"name": "tofu cubes", "qty": "1/2 cup"},
+      {"name": "spinach", "qty": "1 cup"},
+      {"name": "vegetable broth", "qty": "2 cups"},
+      {"name": "spring onion", "qty": "2 tbsp, sliced"}
+    ],
+    "steps": [
+      "Simmer broth with ginger.",
+      "Whisk in miso paste.",
+      "Add tofu and spinach; heat gently.",
+      "Garnish with spring onion."
+    ],
+    "cookTimeMins": 12,
+    "tags": ["gluten-free", "vegan", "light"],
+    "servings": 2
+  },
+  {
+    "id": "r_010",
+    "title": "Roasted Veggie Couscous",
+    "ingredients": [
+      {"name": "couscous", "qty": "1 cup"},
+      {"name": "zucchini", "qty": "1 cup, diced"},
+      {"name": "bell pepper", "qty": "1 cup, diced"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "paprika", "qty": "1 tsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Roast zucchini and pepper with olive oil and paprika.",
+      "Prepare couscous with boiling water.",
+      "Combine couscous and roasted vegetables."
+    ],
+    "cookTimeMins": 18,
+    "tags": ["vegetarian", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_011",
+    "title": "Chili Lime Black Bean Bowl",
+    "ingredients": [
+      {"name": "black beans", "qty": "1 can, drained"},
+      {"name": "corn", "qty": "1 cup"},
+      {"name": "lime juice", "qty": "2 tbsp"},
+      {"name": "chili powder", "qty": "1 tsp"},
+      {"name": "avocado", "qty": "1, sliced"}
+    ],
+    "steps": [
+      "Heat beans and corn in a pan.",
+      "Add lime juice and chili powder.",
+      "Serve with avocado slices."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["vegan", "gluten-free", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_012",
+    "title": "Balsamic Mushroom Toast",
+    "ingredients": [
+      {"name": "wholegrain bread", "qty": "2 slices"},
+      {"name": "mushrooms", "qty": "1 cup, sliced"},
+      {"name": "balsamic vinegar", "qty": "1 tbsp"},
+      {"name": "thyme", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Sauté mushrooms in olive oil.",
+      "Add balsamic and thyme; cook until reduced.",
+      "Serve over toasted bread."
+    ],
+    "cookTimeMins": 12,
+    "tags": ["vegetarian", "quick"],
+    "servings": 1
+  },
+  {
+    "id": "r_013",
+    "title": "Cauliflower Turmeric Bake",
+    "ingredients": [
+      {"name": "cauliflower florets", "qty": "3 cups"},
+      {"name": "turmeric", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Toss cauliflower with turmeric, oil, and salt.",
+      "Roast until golden and tender."
+    ],
+    "cookTimeMins": 25,
+    "tags": ["gluten-free", "vegan", "anti-inflammatory"],
+    "servings": 3
+  },
+  {
+    "id": "r_014",
+    "title": "Gnocchi Spinach Skillet",
+    "ingredients": [
+      {"name": "gnocchi", "qty": "300g"},
+      {"name": "spinach", "qty": "2 cups"},
+      {"name": "garlic", "qty": "2 cloves, minced"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "parmesan", "qty": "1/4 cup"}
+    ],
+    "steps": [
+      "Pan-fry gnocchi until golden.",
+      "Add garlic and spinach and cook until wilted.",
+      "Top with parmesan before serving."
+    ],
+    "cookTimeMins": 15,
+    "tags": ["vegetarian", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_015",
+    "title": "Edamame Sesame Stir-Fry",
+    "ingredients": [
+      {"name": "edamame", "qty": "1 cup, shelled"},
+      {"name": "carrots", "qty": "1 cup, julienned"},
+      {"name": "soy sauce", "qty": "1 tbsp"},
+      {"name": "sesame oil", "qty": "1 tsp"},
+      {"name": "ginger", "qty": "1 tsp, grated"}
+    ],
+    "steps": [
+      "Stir-fry carrots and edamame for 3–4 minutes.",
+      "Add soy sauce, sesame oil, and ginger.",
+      "Cook 1 more minute and serve."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["vegan", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_016",
+    "title": "Creamy Tomato Lentil Soup",
+    "ingredients": [
+      {"name": "red lentils", "qty": "1 cup"},
+      {"name": "crushed tomatoes", "qty": "1 cup"},
+      {"name": "coconut milk", "qty": "1/2 cup"},
+      {"name": "garlic", "qty": "2 cloves"},
+      {"name": "vegetable broth", "qty": "2 cups"}
+    ],
+    "steps": [
+      "Simmer lentils in broth until soft.",
+      "Add tomatoes and garlic and cook 10 minutes.",
+      "Stir in coconut milk until creamy."
+    ],
+    "cookTimeMins": 25,
+    "tags": ["gluten-free", "vegan", "high-protein"],
+    "servings": 3
+  },
+  {
+    "id": "r_017",
+    "title": "Green Pea Mint Salad",
+    "ingredients": [
+      {"name": "green peas", "qty": "1 cup"},
+      {"name": "mint leaves", "qty": "1/4 cup"},
+      {"name": "lemon juice", "qty": "1 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Blanch peas for 2 minutes.",
+      "Toss with chopped mint, lemon juice, and olive oil."
+    ],
+    "cookTimeMins": 5,
+    "tags": ["vegan", "quick", "gluten-free"],
+    "servings": 2
+  },
+  {
+    "id": "r_018",
+    "title": "Curry Roasted Chickpeas",
+    "ingredients": [
+      {"name": "chickpeas", "qty": "1 can, drained"},
+      {"name": "curry powder", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Toss chickpeas with curry, oil, and salt.",
+      "Roast until crispy."
+    ],
+    "cookTimeMins": 25,
+    "tags": ["vegan", "gluten-free", "snack"],
+    "servings": 2
+  },
+  {
+    "id": "r_019",
+    "title": "Broccoli Lemon Pasta",
+    "ingredients": [
+      {"name": "pasta", "qty": "200g"},
+      {"name": "broccoli", "qty": "1.5 cups"},
+      {"name": "lemon zest", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "parmesan", "qty": "1/4 cup"}
+    ],
+    "steps": [
+      "Boil pasta and broccoli together.",
+      "Drain and toss with oil, lemon zest, and parmesan."
+    ],
+    "cookTimeMins": 12,
+    "tags": ["vegetarian", "quick"],
+    "servings": 2
+  },
+  {
+    "id": "r_020",
+    "title": "Maple Roasted Carrots",
+    "ingredients": [
+      {"name": "carrots", "qty": "3 cups, sliced"},
+      {"name": "maple syrup", "qty": "1 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "cumin", "qty": "1/2 tsp"}
+    ],
+    "steps": [
+      "Toss carrots with oil, maple, and cumin.",
+      "Roast until tender."
+    ],
+    "cookTimeMins": 22,
+    "tags": ["vegan", "gluten-free", "side"],
+    "servings": 3
+  },
+  {
+    "id": "r_021",
+    "title": "Pumpkin Ginger Soup",
+    "ingredients": [
+      {"name": "pumpkin", "qty": "3 cups, cubed"},
+      {"name": "ginger", "qty": "1 tbsp, grated"},
+      {"name": "onion", "qty": "1, diced"},
+      {"name": "vegetable broth", "qty": "3 cups"},
+      {"name": "coconut milk", "qty": "1/2 cup"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Sauté onion and ginger until fragrant.",
+      "Add pumpkin and broth; simmer until soft.",
+      "Blend until smooth and stir in coconut milk.",
+      "Season with salt before serving."
+    ],
+    "cookTimeMins": 30,
+    "tags": ["vegan", "gluten-free", "comfort-food"],
+    "servings": 4
+  },
+  {
+    "id": "r_022",
+    "title": "Sesame Kale Stir-Fry",
+    "ingredients": [
+      {"name": "kale", "qty": "3 cups, chopped"},
+      {"name": "garlic", "qty": "2 cloves, minced"},
+      {"name": "soy sauce", "qty": "1 tbsp"},
+      {"name": "sesame oil", "qty": "1 tsp"},
+      {"name": "sesame seeds", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Sauté garlic until fragrant.",
+      "Add kale and stir-fry until wilted.",
+      "Add soy sauce and sesame oil.",
+      "Top with sesame seeds."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["vegan", "quick", "high-fiber"],
+    "servings": 2
+  },
+  {
+    "id": "r_023",
+    "title": "Protein-Packed Lentil Bowl",
+    "ingredients": [
+      {"name": "green lentils", "qty": "1 cup, cooked"},
+      {"name": "spinach", "qty": "1 cup"},
+      {"name": "sunflower seeds", "qty": "2 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "lemon juice", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Combine lentils and spinach in a bowl.",
+      "Whisk olive oil with lemon juice.",
+      "Pour dressing over and top with seeds."
+    ],
+    "cookTimeMins": 15,
+    "tags": ["vegan", "high-protein", "gluten-free"],
+    "servings": 2
+  },
+  {
+    "id": "r_024",
+    "title": "Tahini Roasted Eggplant",
+    "ingredients": [
+      {"name": "eggplant", "qty": "1 large, sliced"},
+      {"name": "tahini", "qty": "2 tbsp"},
+      {"name": "lemon juice", "qty": "1 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "paprika", "qty": "1/2 tsp"}
+    ],
+    "steps": [
+      "Roast eggplant slices until soft.",
+      "Mix tahini, lemon juice, and olive oil.",
+      "Drizzle tahini sauce over warm eggplant.",
+      "Sprinkle paprika on top."
+    ],
+    "cookTimeMins": 25,
+    "tags": ["vegan", "gluten-free", "mediterranean"],
+    "servings": 2
+  },
+  {
+    "id": "r_025",
+    "title": "Chive Cottage Cheese Bowl",
+    "ingredients": [
+      {"name": "cottage cheese", "qty": "1 cup"},
+      {"name": "chives", "qty": "2 tbsp, chopped"},
+      {"name": "cucumber", "qty": "1/2 cup, diced"},
+      {"name": "pepper", "qty": "to taste"}
+    ],
+    "steps": [
+      "Mix cottage cheese with cucumber.",
+      "Add chives and pepper.",
+      "Serve chilled."
+    ],
+    "cookTimeMins": 5,
+    "tags": ["vegetarian", "high-protein", "quick"],
+    "servings": 1
+  },
+  {
+    "id": "r_026",
+    "title": "Paprika Potato Wedges",
+    "ingredients": [
+      {"name": "potatoes", "qty": "3 large, cut into wedges"},
+      {"name": "paprika", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Coat potato wedges with oil, paprika, and salt.",
+      "Bake until crispy and golden."
+    ],
+    "cookTimeMins": 30,
+    "tags": ["vegan", "gluten-free", "side"],
+    "servings": 3
+  },
+  {
+    "id": "r_027",
+    "title": "Spinach Ricotta Cannelloni",
+    "ingredients": [
+      {"name": "cannelloni tubes", "qty": "8"},
+      {"name": "ricotta", "qty": "1 cup"},
+      {"name": "spinach", "qty": "2 cups, chopped"},
+      {"name": "tomato sauce", "qty": "1 cup"},
+      {"name": "oregano", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Mix ricotta and spinach.",
+      "Fill cannelloni tubes with mixture.",
+      "Place in baking dish and cover with tomato sauce.",
+      "Bake until pasta is tender."
+    ],
+    "cookTimeMins": 35,
+    "tags": ["vegetarian", "oven-bake"],
+    "servings": 2
+  },
+  {
+    "id": "r_028",
+    "title": "Chickpea Cucumber Wrap",
+    "ingredients": [
+      {"name": "tortilla wrap", "qty": "1"},
+      {"name": "chickpeas", "qty": "1/2 cup, mashed"},
+      {"name": "cucumber", "qty": "1/4 cup, sliced"},
+      {"name": "yogurt", "qty": "2 tbsp"},
+      {"name": "dill", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Mix mashed chickpeas with yogurt and dill.",
+      "Spread onto tortilla and add cucumber slices.",
+      "Roll tightly and slice."
+    ],
+    "cookTimeMins": 5,
+    "tags": ["vegetarian", "quick"],
+    "servings": 1
+  },
+  {
+    "id": "r_029",
+    "title": "Caramelized Onion Polenta",
+    "ingredients": [
+      {"name": "polenta", "qty": "1 cup"},
+      {"name": "onions", "qty": "2, thinly sliced"},
+      {"name": "butter", "qty": "1 tbsp"},
+      {"name": "vegetable broth", "qty": "3 cups"}
+    ],
+    "steps": [
+      "Cook onions in butter until deeply golden.",
+      "Simmer polenta in broth until thick.",
+      "Serve polenta topped with caramelized onions."
+    ],
+    "cookTimeMins": 30,
+    "tags": ["vegetarian", "comfort-food"],
+    "servings": 3
+  },
+  {
+    "id": "r_030",
+    "title": "Cilantro Lime Rice",
+    "ingredients": [
+      {"name": "rice", "qty": "1 cup"},
+      {"name": "lime juice", "qty": "1 tbsp"},
+      {"name": "cilantro", "qty": "1/4 cup, chopped"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Cook rice according to package instructions.",
+      "Mix in lime juice and cilantro.",
+      "Season with salt."
+    ],
+    "cookTimeMins": 18,
+    "tags": ["vegan", "gluten-free", "side"],
+    "servings": 3
+  },
+  {
+    "id": "r_031",
+    "title": "Red Cabbage Apple Slaw",
+    "ingredients": [
+      {"name": "red cabbage", "qty": "2 cups, shredded"},
+      {"name": "apple", "qty": "1, julienned"},
+      {"name": "apple cider vinegar", "qty": "1 tbsp"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Toss cabbage and apple together.",
+      "Mix vinegar with olive oil and pour over slaw.",
+      "Let rest 10 minutes before serving."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["vegan", "gluten-free", "fresh"],
+    "servings": 3
+  },
+  {
+    "id": "r_032",
+    "title": "Turmeric Millet Bowl",
+    "ingredients": [
+      {"name": "millet", "qty": "1 cup"},
+      {"name": "turmeric", "qty": "1 tsp"},
+      {"name": "peas", "qty": "1/2 cup"},
+      {"name": "carrots", "qty": "1/2 cup, diced"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Cook millet with turmeric in water.",
+      "Add peas and carrots in last 5 minutes.",
+      "Fluff and season with salt."
+    ],
+    "cookTimeMins": 20,
+    "tags": ["vegan", "gluten-free", "anti-inflammatory"],
+    "servings": 2
+  },
+  {
+    "id": "r_033",
+    "title": "Roasted Garlic Tomato Bruschetta",
+    "ingredients": [
+      {"name": "tomatoes", "qty": "1 cup, diced"},
+      {"name": "garlic", "qty": "4 cloves, roasted"},
+      {"name": "basil", "qty": "1/4 cup, chopped"},
+      {"name": "bread", "qty": "4 slices"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Mash roasted garlic with tomatoes and basil.",
+      "Toast bread slices.",
+      "Spoon mixture onto toasted bread."
+    ],
+    "cookTimeMins": 15,
+    "tags": ["vegetarian", "starter"],
+    "servings": 2
+  },
+  {
+    "id": "r_034",
+    "title": "Spiced Lentil Patties",
+    "ingredients": [
+      {"name": "red lentils", "qty": "1 cup, cooked"},
+      {"name": "oats", "qty": "1/4 cup"},
+      {"name": "cumin", "qty": "1 tsp"},
+      {"name": "garlic", "qty": "1 clove, minced"}
+    ],
+    "steps": [
+      "Mash lentils and mix with oats, cumin, and garlic.",
+      "Form small patties.",
+      "Pan-fry until golden on each side."
+    ],
+    "cookTimeMins": 18,
+    "tags": ["vegan", "high-protein"],
+    "servings": 2
+  },
+  {
+    "id": "r_035",
+    "title": "Feta Beetroot Salad",
+    "ingredients": [
+      {"name": "roasted beetroot", "qty": "1 cup, cubed"},
+      {"name": "feta", "qty": "1/3 cup, crumbled"},
+      {"name": "walnuts", "qty": "2 tbsp, chopped"},
+      {"name": "olive oil", "qty": "1 tbsp"}
+    ],
+    "steps": [
+      "Combine beetroot and feta.",
+      "Top with walnuts.",
+      "Drizzle with olive oil before serving."
+    ],
+    "cookTimeMins": 10,
+    "tags": ["vegetarian", "gluten-free"],
+    "servings": 2
+  },
+  {
+    "id": "r_036",
+    "title": "Sesame Avocado Rice Bowl",
+    "ingredients": [
+      {"name": "rice", "qty": "1 cup, cooked"},
+      {"name": "avocado", "qty": "1, diced"},
+      {"name": "soy sauce", "qty": "1 tsp"},
+      {"name": "sesame seeds", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Layer rice and avocado in a bowl.",
+      "Drizzle soy sauce.",
+      "Sprinkle sesame seeds before serving."
+    ],
+    "cookTimeMins": 5,
+    "tags": ["vegan", "quick"],
+    "servings": 1
+  },
+  {
+    "id": "r_037",
+    "title": "Oregano Baked Tomatoes",
+    "ingredients": [
+      {"name": "tomatoes", "qty": "4, halved"},
+      {"name": "oregano", "qty": "1 tsp"},
+      {"name": "olive oil", "qty": "1 tbsp"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Place tomatoes cut-side up on tray.",
+      "Season with oregano, oil, and salt.",
+      "Bake until soft and slightly caramelized."
+    ],
+    "cookTimeMins": 20,
+    "tags": ["vegan", "gluten-free", "side"],
+    "servings": 2
+  },
+  {
+    "id": "r_038",
+    "title": "Chai-Spiced Oatmeal",
+    "ingredients": [
+      {"name": "rolled oats", "qty": "1/2 cup"},
+      {"name": "milk or plant milk", "qty": "1 cup"},
+      {"name": "cinnamon", "qty": "1/2 tsp"},
+      {"name": "cardamom", "qty": "1/4 tsp"},
+      {"name": "honey", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Simmer oats in milk.",
+      "Add spices and cook until creamy.",
+      "Drizzle honey before serving."
+    ],
+    "cookTimeMins": 8,
+    "tags": ["vegetarian", "breakfast"],
+    "servings": 1
+  },
+  {
+    "id": "r_039",
+    "title": "Corn Zucchini Fritters",
+    "ingredients": [
+      {"name": "zucchini", "qty": "1 cup, grated"},
+      {"name": "corn kernels", "qty": "1 cup"},
+      {"name": "flour", "qty": "1/2 cup"},
+      {"name": "egg", "qty": "1"},
+      {"name": "salt", "qty": "to taste"}
+    ],
+    "steps": [
+      "Mix grated zucchini, corn, flour, and egg.",
+      "Spoon small portions onto a hot pan.",
+      "Cook until golden on both sides."
+    ],
+    "cookTimeMins": 15,
+    "tags": ["vegetarian"],
+    "servings": 2
+  },
+  {
+    "id": "r_040",
+    "title": "Ginger Soy Green Beans",
+    "ingredients": [
+      {"name": "green beans", "qty": "2 cups"},
+      {"name": "soy sauce", "qty": "1 tbsp"},
+      {"name": "ginger", "qty": "1 tsp, grated"},
+      {"name": "olive oil", "qty": "1 tsp"}
+    ],
+    "steps": [
+      "Blanch green beans.",
+      "Stir-fry with ginger, soy sauce, and oil for 2 minutes."
+    ],
+    "cookTimeMins": 7,
+    "tags": ["vegan", "quick", "gluten-free"],
+    "servings": 2
+  },
+    {
+      "id": "r_021",
+      "title": "Pumpkin Ginger Soup",
+      "ingredients": [
+        {"name": "pumpkin", "qty": "3 cups, cubed"},
+        {"name": "ginger", "qty": "1 tbsp, grated"},
+        {"name": "onion", "qty": "1, diced"},
+        {"name": "vegetable broth", "qty": "3 cups"},
+        {"name": "coconut milk", "qty": "1/2 cup"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Sauté onion and ginger until fragrant.",
+        "Add pumpkin and broth; simmer until soft.",
+        "Blend until smooth and stir in coconut milk.",
+        "Season with salt before serving."
+      ],
+      "cookTimeMins": 30,
+      "tags": ["vegan", "gluten-free", "comfort-food"],
+      "servings": 4
+    },
+    {
+      "id": "r_022",
+      "title": "Sesame Kale Stir-Fry",
+      "ingredients": [
+        {"name": "kale", "qty": "3 cups, chopped"},
+        {"name": "garlic", "qty": "2 cloves, minced"},
+        {"name": "soy sauce", "qty": "1 tbsp"},
+        {"name": "sesame oil", "qty": "1 tsp"},
+        {"name": "sesame seeds", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Sauté garlic until fragrant.",
+        "Add kale and stir-fry until wilted.",
+        "Add soy sauce and sesame oil.",
+        "Top with sesame seeds."
+      ],
+      "cookTimeMins": 10,
+      "tags": ["vegan", "quick", "high-fiber"],
+      "servings": 2
+    },
+    {
+      "id": "r_023",
+      "title": "Protein-Packed Lentil Bowl",
+      "ingredients": [
+        {"name": "green lentils", "qty": "1 cup, cooked"},
+        {"name": "spinach", "qty": "1 cup"},
+        {"name": "sunflower seeds", "qty": "2 tbsp"},
+        {"name": "olive oil", "qty": "1 tbsp"},
+        {"name": "lemon juice", "qty": "1 tbsp"}
+      ],
+      "steps": [
+        "Combine lentils and spinach in a bowl.",
+        "Whisk olive oil with lemon juice.",
+        "Pour dressing over and top with seeds."
+      ],
+      "cookTimeMins": 15,
+      "tags": ["vegan", "high-protein", "gluten-free"],
+      "servings": 2
+    },
+    {
+      "id": "r_024",
+      "title": "Tahini Roasted Eggplant",
+      "ingredients": [
+        {"name": "eggplant", "qty": "1 large, sliced"},
+        {"name": "tahini", "qty": "2 tbsp"},
+        {"name": "lemon juice", "qty": "1 tbsp"},
+        {"name": "olive oil", "qty": "1 tbsp"},
+        {"name": "paprika", "qty": "1/2 tsp"}
+      ],
+      "steps": [
+        "Roast eggplant slices until soft.",
+        "Mix tahini, lemon juice, and olive oil.",
+        "Drizzle tahini sauce over warm eggplant.",
+        "Sprinkle paprika on top."
+      ],
+      "cookTimeMins": 25,
+      "tags": ["vegan", "gluten-free", "mediterranean"],
+      "servings": 2
+    },
+    {
+      "id": "r_025",
+      "title": "Chive Cottage Cheese Bowl",
+      "ingredients": [
+        {"name": "cottage cheese", "qty": "1 cup"},
+        {"name": "chives", "qty": "2 tbsp, chopped"},
+        {"name": "cucumber", "qty": "1/2 cup, diced"},
+        {"name": "pepper", "qty": "to taste"}
+      ],
+      "steps": [
+        "Mix cottage cheese with cucumber.",
+        "Add chives and pepper.",
+        "Serve chilled."
+      ],
+      "cookTimeMins": 5,
+      "tags": ["vegetarian", "high-protein", "quick"],
+      "servings": 1
+    },
+    {
+      "id": "r_026",
+      "title": "Paprika Potato Wedges",
+      "ingredients": [
+        {"name": "potatoes", "qty": "3 large, cut into wedges"},
+        {"name": "paprika", "qty": "1 tsp"},
+        {"name": "olive oil", "qty": "1 tbsp"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Coat potato wedges with oil, paprika, and salt.",
+        "Bake until crispy and golden."
+      ],
+      "cookTimeMins": 30,
+      "tags": ["vegan", "gluten-free", "side"],
+      "servings": 3
+    },
+    {
+      "id": "r_027",
+      "title": "Spinach Ricotta Cannelloni",
+      "ingredients": [
+        {"name": "cannelloni tubes", "qty": "8"},
+        {"name": "ricotta", "qty": "1 cup"},
+        {"name": "spinach", "qty": "2 cups, chopped"},
+        {"name": "tomato sauce", "qty": "1 cup"},
+        {"name": "oregano", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Mix ricotta and spinach.",
+        "Fill cannelloni tubes with mixture.",
+        "Place in baking dish and cover with tomato sauce.",
+        "Bake until pasta is tender."
+      ],
+      "cookTimeMins": 35,
+      "tags": ["vegetarian", "oven-bake"],
+      "servings": 2
+    },
+    {
+      "id": "r_028",
+      "title": "Chickpea Cucumber Wrap",
+      "ingredients": [
+        {"name": "tortilla wrap", "qty": "1"},
+        {"name": "chickpeas", "qty": "1/2 cup, mashed"},
+        {"name": "cucumber", "qty": "1/4 cup, sliced"},
+        {"name": "yogurt", "qty": "2 tbsp"},
+        {"name": "dill", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Mix mashed chickpeas with yogurt and dill.",
+        "Spread onto tortilla and add cucumber slices.",
+        "Roll tightly and slice."
+      ],
+      "cookTimeMins": 5,
+      "tags": ["vegetarian", "quick"],
+      "servings": 1
+    },
+    {
+      "id": "r_029",
+      "title": "Caramelized Onion Polenta",
+      "ingredients": [
+        {"name": "polenta", "qty": "1 cup"},
+        {"name": "onions", "qty": "2, thinly sliced"},
+        {"name": "butter", "qty": "1 tbsp"},
+        {"name": "vegetable broth", "qty": "3 cups"}
+      ],
+      "steps": [
+        "Cook onions in butter until deeply golden.",
+        "Simmer polenta in broth until thick.",
+        "Serve polenta topped with caramelized onions."
+      ],
+      "cookTimeMins": 30,
+      "tags": ["vegetarian", "comfort-food"],
+      "servings": 3
+    },
+    {
+      "id": "r_030",
+      "title": "Cilantro Lime Rice",
+      "ingredients": [
+        {"name": "rice", "qty": "1 cup"},
+        {"name": "lime juice", "qty": "1 tbsp"},
+        {"name": "cilantro", "qty": "1/4 cup, chopped"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Cook rice according to package instructions.",
+        "Mix in lime juice and cilantro.",
+        "Season with salt."
+      ],
+      "cookTimeMins": 18,
+      "tags": ["vegan", "gluten-free", "side"],
+      "servings": 3
+    },
+    {
+      "id": "r_031",
+      "title": "Red Cabbage Apple Slaw",
+      "ingredients": [
+        {"name": "red cabbage", "qty": "2 cups, shredded"},
+        {"name": "apple", "qty": "1, julienned"},
+        {"name": "apple cider vinegar", "qty": "1 tbsp"},
+        {"name": "olive oil", "qty": "1 tbsp"}
+      ],
+      "steps": [
+        "Toss cabbage and apple together.",
+        "Mix vinegar with olive oil and pour over slaw.",
+        "Let rest 10 minutes before serving."
+      ],
+      "cookTimeMins": 10,
+      "tags": ["vegan", "gluten-free", "fresh"],
+      "servings": 3
+    },
+    {
+      "id": "r_032",
+      "title": "Turmeric Millet Bowl",
+      "ingredients": [
+        {"name": "millet", "qty": "1 cup"},
+        {"name": "turmeric", "qty": "1 tsp"},
+        {"name": "peas", "qty": "1/2 cup"},
+        {"name": "carrots", "qty": "1/2 cup, diced"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Cook millet with turmeric in water.",
+        "Add peas and carrots in last 5 minutes.",
+        "Fluff and season with salt."
+      ],
+      "cookTimeMins": 20,
+      "tags": ["vegan", "gluten-free", "anti-inflammatory"],
+      "servings": 2
+    },
+    {
+      "id": "r_033",
+      "title": "Roasted Garlic Tomato Bruschetta",
+      "ingredients": [
+        {"name": "tomatoes", "qty": "1 cup, diced"},
+        {"name": "garlic", "qty": "4 cloves, roasted"},
+        {"name": "basil", "qty": "1/4 cup, chopped"},
+        {"name": "bread", "qty": "4 slices"},
+        {"name": "olive oil", "qty": "1 tbsp"}
+      ],
+      "steps": [
+        "Mash roasted garlic with tomatoes and basil.",
+        "Toast bread slices.",
+        "Spoon mixture onto toasted bread."
+      ],
+      "cookTimeMins": 15,
+      "tags": ["vegetarian", "starter"],
+      "servings": 2
+    },
+    {
+      "id": "r_034",
+      "title": "Spiced Lentil Patties",
+      "ingredients": [
+        {"name": "red lentils", "qty": "1 cup, cooked"},
+        {"name": "oats", "qty": "1/4 cup"},
+        {"name": "cumin", "qty": "1 tsp"},
+        {"name": "garlic", "qty": "1 clove, minced"}
+      ],
+      "steps": [
+        "Mash lentils and mix with oats, cumin, and garlic.",
+        "Form small patties.",
+        "Pan-fry until golden on each side."
+      ],
+      "cookTimeMins": 18,
+      "tags": ["vegan", "high-protein"],
+      "servings": 2
+    },
+    {
+      "id": "r_035",
+      "title": "Feta Beetroot Salad",
+      "ingredients": [
+        {"name": "roasted beetroot", "qty": "1 cup, cubed"},
+        {"name": "feta", "qty": "1/3 cup, crumbled"},
+        {"name": "walnuts", "qty": "2 tbsp, chopped"},
+        {"name": "olive oil", "qty": "1 tbsp"}
+      ],
+      "steps": [
+        "Combine beetroot and feta.",
+        "Top with walnuts.",
+        "Drizzle with olive oil before serving."
+      ],
+      "cookTimeMins": 10,
+      "tags": ["vegetarian", "gluten-free"],
+      "servings": 2
+    },
+    {
+      "id": "r_036",
+      "title": "Sesame Avocado Rice Bowl",
+      "ingredients": [
+        {"name": "rice", "qty": "1 cup, cooked"},
+        {"name": "avocado", "qty": "1, diced"},
+        {"name": "soy sauce", "qty": "1 tsp"},
+        {"name": "sesame seeds", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Layer rice and avocado in a bowl.",
+        "Drizzle soy sauce.",
+        "Sprinkle sesame seeds before serving."
+      ],
+      "cookTimeMins": 5,
+      "tags": ["vegan", "quick"],
+      "servings": 1
+    },
+    {
+      "id": "r_037",
+      "title": "Oregano Baked Tomatoes",
+      "ingredients": [
+        {"name": "tomatoes", "qty": "4, halved"},
+        {"name": "oregano", "qty": "1 tsp"},
+        {"name": "olive oil", "qty": "1 tbsp"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Place tomatoes cut-side up on tray.",
+        "Season with oregano, oil, and salt.",
+        "Bake until soft and slightly caramelized."
+      ],
+      "cookTimeMins": 20,
+      "tags": ["vegan", "gluten-free", "side"],
+      "servings": 2
+    },
+    {
+      "id": "r_038",
+      "title": "Chai-Spiced Oatmeal",
+      "ingredients": [
+        {"name": "rolled oats", "qty": "1/2 cup"},
+        {"name": "milk or plant milk", "qty": "1 cup"},
+        {"name": "cinnamon", "qty": "1/2 tsp"},
+        {"name": "cardamom", "qty": "1/4 tsp"},
+        {"name": "honey", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Simmer oats in milk.",
+        "Add spices and cook until creamy.",
+        "Drizzle honey before serving."
+      ],
+      "cookTimeMins": 8,
+      "tags": ["vegetarian", "breakfast"],
+      "servings": 1
+    },
+    {
+      "id": "r_039",
+      "title": "Corn Zucchini Fritters",
+      "ingredients": [
+        {"name": "zucchini", "qty": "1 cup, grated"},
+        {"name": "corn kernels", "qty": "1 cup"},
+        {"name": "flour", "qty": "1/2 cup"},
+        {"name": "egg", "qty": "1"},
+        {"name": "salt", "qty": "to taste"}
+      ],
+      "steps": [
+        "Mix grated zucchini, corn, flour, and egg.",
+        "Spoon small portions onto a hot pan.",
+        "Cook until golden on both sides."
+      ],
+      "cookTimeMins": 15,
+      "tags": ["vegetarian"],
+      "servings": 2
+    },
+    {
+      "id": "r_040",
+      "title": "Ginger Soy Green Beans",
+      "ingredients": [
+        {"name": "green beans", "qty": "2 cups"},
+        {"name": "soy sauce", "qty": "1 tbsp"},
+        {"name": "ginger", "qty": "1 tsp, grated"},
+        {"name": "olive oil", "qty": "1 tsp"}
+      ],
+      "steps": [
+        "Blanch green beans.",
+        "Stir-fry with ginger, soy sauce, and oil for 2 minutes."
+      ],
+      "cookTimeMins": 7,
+      "tags": ["vegan", "quick", "gluten-free"],
+      "servings": 2
+    }, 
+    [
+        {
+          "id": "r_041",
+          "title": "Crispy Tofu Quinoa Power Bowl",
+          "ingredients": [
+            {"name": "tofu, firm", "qty": "200g"},
+            {"name": "quinoa, cooked", "qty": "1 cup"},
+            {"name": "spinach", "qty": "1 handful"},
+            {"name": "carrot, shredded", "qty": "1/2 cup"},
+            {"name": "soy sauce (or tamari)", "qty": "1 tbsp"},
+            {"name": "olive oil", "qty": "1 tbsp"},
+            {"name": "sesame seeds", "qty": "1 tsp"}
+          ],
+          "steps": [
+            "Press and cube tofu.",
+            "Pan-fry tofu until golden.",
+            "Assemble bowl with quinoa, spinach, and carrot.",
+            "Top with tofu, soy sauce, and sesame seeds."
+          ],
+          "cookTimeMins": 20,
+          "tags": ["high-protein", "vegan"],
+          "servings": 2
+        },
+        {
+          "id": "r_042",
+          "title": "Lentil & Spinach Coconut Stew",
+          "ingredients": [
+            {"name": "red lentils", "qty": "1 cup"},
+            {"name": "coconut milk", "qty": "1 cup"},
+            {"name": "spinach", "qty": "2 cups"},
+            {"name": "onion", "qty": "1 small"},
+            {"name": "garlic", "qty": "2 cloves"},
+            {"name": "curry powder", "qty": "1 tsp"},
+            {"name": "vegetable broth", "qty": "2 cups"}
+          ],
+          "steps": [
+            "Sauté onion and garlic.",
+            "Add curry powder and lentils.",
+            "Pour in broth and simmer.",
+            "Stir in coconut milk and spinach."
+          ],
+          "cookTimeMins": 30,
+          "tags": ["gluten-free", "vegan"],
+          "servings": 3
+        },
+        {
+          "id": "r_043",
+          "title": "Halloumi & Zucchini Skillet",
+          "ingredients": [
+            {"name": "halloumi", "qty": "150g"},
+            {"name": "zucchini", "qty": "1 large"},
+            {"name": "cherry tomatoes", "qty": "1 cup"},
+            {"name": "basil", "qty": "1 handful"},
+            {"name": "olive oil", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Slice halloumi and sear until browned.",
+            "Add sliced zucchini and tomatoes.",
+            "Cook until tender.",
+            "Finish with fresh basil."
+          ],
+          "cookTimeMins": 15,
+          "tags": ["quick"],
+          "servings": 2
+        },
+        {
+          "id": "r_044",
+          "title": "Bean & Barley Stuffed Peppers",
+          "ingredients": [
+            {"name": "bell peppers", "qty": "2 large"},
+            {"name": "barley, cooked", "qty": "1 cup"},
+            {"name": "black beans", "qty": "1/2 cup"},
+            {"name": "corn", "qty": "1/4 cup"},
+            {"name": "paprika", "qty": "1 tsp"}
+          ],
+          "steps": [
+            "Cut tops from peppers and remove seeds.",
+            "Mix barley, beans, corn, and paprika.",
+            "Stuff peppers and bake at 190°C for 25 minutes."
+          ],
+          "cookTimeMins": 35,
+          "tags": ["high-fiber"],
+          "servings": 2
+        },
+        {
+          "id": "r_045",
+          "title": "Tomato Basil Chickpea Pasta",
+          "ingredients": [
+            {"name": "chickpea pasta", "qty": "200g"},
+            {"name": "tomatoes", "qty": "2 cups diced"},
+            {"name": "basil", "qty": "1 handful"},
+            {"name": "garlic", "qty": "1 clove"},
+            {"name": "olive oil", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Cook pasta.",
+            "Sauté garlic and tomatoes.",
+            "Toss pasta with sauce and basil."
+          ],
+          "cookTimeMins": 18,
+          "tags": ["gluten-free", "high-protein"],
+          "servings": 2
+        },
+        {
+          "id": "r_046",
+          "title": "Roasted Cauliflower Tahini Plate",
+          "ingredients": [
+            {"name": "cauliflower florets", "qty": "3 cups"},
+            {"name": "tahini", "qty": "2 tbsp"},
+            {"name": "lemon juice", "qty": "1 tbsp"},
+            {"name": "paprika", "qty": "1/2 tsp"},
+            {"name": "olive oil", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Roast cauliflower at 210°C for 20 minutes.",
+            "Whisk tahini with lemon and water.",
+            "Serve cauliflower drizzled with tahini sauce."
+          ],
+          "cookTimeMins": 25,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        },
+        {
+          "id": "r_047",
+          "title": "Sweet Potato & Kale Hash",
+          "ingredients": [
+            {"name": "sweet potato", "qty": "1 large"},
+            {"name": "kale", "qty": "2 cups"},
+            {"name": "onion", "qty": "1 small"},
+            {"name": "olive oil", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Dice sweet potato and sauté until soft.",
+            "Add onion and kale.",
+            "Cook until kale wilts."
+          ],
+          "cookTimeMins": 20,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        },
+        {
+          "id": "r_048",
+          "title": "Greek Yogurt Cucumber Noodles",
+          "ingredients": [
+            {"name": "cucumber, spiralized", "qty": "2 cups"},
+            {"name": "Greek yogurt", "qty": "1/2 cup"},
+            {"name": "dill", "qty": "1 tsp"},
+            {"name": "lemon zest", "qty": "1 tsp"}
+          ],
+          "steps": [
+            "Combine yogurt, dill, and lemon.",
+            "Toss with cucumber noodles."
+          ],
+          "cookTimeMins": 5,
+          "tags": ["low-carb", "quick"],
+          "servings": 1
+        },
+        {
+          "id": "r_049",
+          "title": "Vegetable Brown Rice Bibimbap",
+          "ingredients": [
+            {"name": "brown rice", "qty": "1 cup cooked"},
+            {"name": "carrot", "qty": "1/2 cup julienned"},
+            {"name": "zucchini", "qty": "1/2 cup julienned"},
+            {"name": "spinach", "qty": "1 cup"},
+            {"name": "egg", "qty": "1"},
+            {"name": "soy sauce", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Sauté vegetables separately.",
+            "Fry egg sunny-side-up.",
+            "Assemble bowl with rice, vegetables, and egg.",
+            "Drizzle with soy sauce."
+          ],
+          "cookTimeMins": 25,
+          "tags": ["vegetarian"],
+          "servings": 1
+        },
+        {
+          "id": "r_050",
+          "title": "Lemon Orzo with Broccoli",
+          "ingredients": [
+            {"name": "orzo", "qty": "1 cup"},
+            {"name": "broccoli florets", "qty": "1 cup"},
+            {"name": "lemon juice", "qty": "2 tbsp"},
+            {"name": "olive oil", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Cook orzo and steam broccoli.",
+            "Mix with lemon and olive oil."
+          ],
+          "cookTimeMins": 15,
+          "tags": ["quick"],
+          "servings": 2
+        },
+        {
+          "id": "r_051",
+          "title": "Curry Spiced Pumpkin Soup",
+          "ingredients": [
+            {"name": "pumpkin puree", "qty": "2 cups"},
+            {"name": "vegetable broth", "qty": "1.5 cups"},
+            {"name": "curry powder", "qty": "1 tsp"},
+            {"name": "coconut milk", "qty": "1/2 cup"}
+          ],
+          "steps": [
+            "Simmer pumpkin and broth.",
+            "Add curry and coconut milk.",
+            "Blend until smooth."
+          ],
+          "cookTimeMins": 20,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        },
+        {
+          "id": "r_052",
+          "title": "Broccoli Cashew Stir-Fry",
+          "ingredients": [
+            {"name": "broccoli", "qty": "2 cups"},
+            {"name": "cashews", "qty": "1/4 cup"},
+            {"name": "soy sauce", "qty": "1 tbsp"},
+            {"name": "ginger", "qty": "1 tsp"},
+            {"name": "garlic", "qty": "1 clove"}
+          ],
+          "steps": [
+            "Stir-fry broccoli with garlic and ginger.",
+            "Add cashews and soy sauce."
+          ],
+          "cookTimeMins": 12,
+          "tags": ["vegan"],
+          "servings": 2
+        },
+        {
+          "id": "r_053",
+          "title": "Spinach Feta Omelette Wrap",
+          "ingredients": [
+            {"name": "eggs", "qty": "2"},
+            {"name": "spinach", "qty": "1 cup"},
+            {"name": "feta", "qty": "2 tbsp"},
+            {"name": "whole-wheat tortilla", "qty": "1"}
+          ],
+          "steps": [
+            "Cook omelette with spinach.",
+            "Add feta and fold.",
+            "Wrap in tortilla."
+          ],
+          "cookTimeMins": 10,
+          "tags": ["high-protein"],
+          "servings": 1
+        },
+        {
+          "id": "r_054",
+          "title": "Avocado Lentil Salad",
+          "ingredients": [
+            {"name": "green lentils, cooked", "qty": "1 cup"},
+            {"name": "avocado", "qty": "1"},
+            {"name": "tomatoes", "qty": "1/2 cup"},
+            {"name": "lime juice", "qty": "1 tbsp"}
+          ],
+          "steps": [
+            "Dice avocado and tomatoes.",
+            "Mix with lentils and lime juice."
+          ],
+          "cookTimeMins": 5,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        },
+        {
+          "id": "r_055",
+          "title": "Butternut Squash & Sage Risotto",
+          "ingredients": [
+            {"name": "arborio rice", "qty": "1 cup"},
+            {"name": "butternut squash, diced", "qty": "1 cup"},
+            {"name": "sage", "qty": "1 tsp"},
+            {"name": "vegetable broth", "qty": "3 cups"}
+          ],
+          "steps": [
+            "Sauté squash and rice.",
+            "Add broth gradually while stirring.",
+            "Finish with sage."
+          ],
+          "cookTimeMins": 30,
+          "tags": [],
+          "servings": 2
+        },
+        {
+          "id": "r_056",
+          "title": "Crispy Chickpea Avocado Wrap",
+          "ingredients": [
+            {"name": "chickpeas, cooked", "qty": "1 cup"},
+            {"name": "avocado", "qty": "1"},
+            {"name": "spinach", "qty": "1 cup"},
+            {"name": "tortilla", "qty": "1"},
+            {"name": "paprika", "qty": "1/2 tsp"}
+          ],
+          "steps": [
+            "Crisp chickpeas with paprika.",
+            "Mash avocado onto tortilla.",
+            "Add chickpeas and spinach, then roll."
+          ],
+          "cookTimeMins": 10,
+          "tags": ["vegan"],
+          "servings": 1
+        },
+        {
+          "id": "r_057",
+          "title": "Roasted Carrot Ginger Purée",
+          "ingredients": [
+            {"name": "carrots", "qty": "3 large"},
+            {"name": "ginger", "qty": "1 tsp"},
+            {"name": "olive oil", "qty": "1 tbsp"},
+            {"name": "vegetable broth", "qty": "1 cup"}
+          ],
+          "steps": [
+            "Roast carrots until soft.",
+            "Blend with broth, ginger, and oil."
+          ],
+          "cookTimeMins": 25,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        },
+        {
+          "id": "r_058",
+          "title": "Pesto White Bean Toast",
+          "ingredients": [
+            {"name": "white beans", "qty": "1/2 cup"},
+            {"name": "pesto", "qty": "1 tbsp"},
+            {"name": "whole-grain bread", "qty": "1 slice"},
+            {"name": "tomato slices", "qty": "3"}
+          ],
+          "steps": [
+            "Mash beans with pesto.",
+            "Spread on toast and top with tomatoes."
+          ],
+          "cookTimeMins": 5,
+          "tags": ["quick", "vegetarian"],
+          "servings": 1
+        },
+        {
+          "id": "r_059",
+          "title": "Thai Peanut Tofu Noodle Bowl",
+          "ingredients": [
+            {"name": "rice noodles", "qty": "150g"},
+            {"name": "tofu", "qty": "150g"},
+            {"name": "peanut butter", "qty": "1 tbsp"},
+            {"name": "lime juice", "qty": "1 tbsp"},
+            {"name": "soy sauce", "qty": "1 tbsp"},
+            {"name": "shredded cabbage", "qty": "1 cup"}
+          ],
+          "steps": [
+            "Cook noodles.",
+            "Pan-fry tofu.",
+            "Whisk sauce ingredients.",
+            "Toss noodles, tofu, cabbage, and sauce."
+          ],
+          "cookTimeMins": 20,
+          "tags": ["vegan"],
+          "servings": 2
+        },
+        {
+          "id": "r_060",
+          "title": "Chili Lime Roasted Corn Salad",
+          "ingredients": [
+            {"name": "corn kernels", "qty": "2 cups"},
+            {"name": "lime juice", "qty": "1 tbsp"},
+            {"name": "chili powder", "qty": "1 tsp"},
+            {"name": "coriander", "qty": "1 tbsp chopped"}
+          ],
+          "steps": [
+            "Roast corn lightly.",
+            "Mix with lime, chili, and coriander."
+          ],
+          "cookTimeMins": 12,
+          "tags": ["vegan", "gluten-free"],
+          "servings": 2
+        }
+      }
+    ], 
+      
+  

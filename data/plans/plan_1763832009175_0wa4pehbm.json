@@ -1,0 +1,523 @@
+{
+  "planId": "plan_1763832009175_0wa4pehbm",
+  "userId": "melani-123",
+  "weekStart": "2025-11-22",
+  "createdAt": "2025-11-22T17:20:09.148Z",
+  "profile": {
+    "id": "melani-123",
+    "name": "Melani Ortega",
+    "preferences": {
+      "dietary": [
+        "vegetarian"
+      ],
+      "avoidIngredients": [
+        "soy",
+        "tofu",
+        "olives",
+        "fish"
+      ],
+      "maxCookMins": 30
+    }
+  },
+  "weekPlan": [
+    {
+      "day": "Monday",
+      "date": "2025-11-22",
+      "lunch": {
+        "id": "r_004",
+        "title": "Zucchini Feta Skillet",
+        "cookTimeMins": 12,
+        "servings": 2
+      },
+      "dinner": {
+        "id": "r_010",
+        "title": "Roasted Veggie Couscous",
+        "cookTimeMins": 18,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Tuesday",
+      "date": "2025-11-23",
+      "lunch": {
+        "id": "r_014",
+        "title": "Gnocchi Spinach Skillet",
+        "cookTimeMins": 15,
+        "servings": 2
+      },
+      "dinner": {
+        "id": "r_025",
+        "title": "Chive Cottage Cheese Bowl",
+        "cookTimeMins": 5,
+        "servings": 1
+      }
+    },
+    {
+      "day": "Wednesday",
+      "date": "2025-11-24",
+      "lunch": {
+        "id": "r_029",
+        "title": "Caramelized Onion Polenta",
+        "cookTimeMins": 30,
+        "servings": 3
+      },
+      "dinner": {
+        "id": "r_035",
+        "title": "Feta Beetroot Salad",
+        "cookTimeMins": 10,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Thursday",
+      "date": "2025-11-25",
+      "lunch": {
+        "id": "r_039",
+        "title": "Corn Zucchini Fritters",
+        "cookTimeMins": 15,
+        "servings": 2
+      },
+      "dinner": {
+        "id": "r_033",
+        "title": "Roasted Garlic Tomato Bruschetta",
+        "cookTimeMins": 15,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Friday",
+      "date": "2025-11-26",
+      "lunch": {
+        "id": "r_012",
+        "title": "Balsamic Mushroom Toast",
+        "cookTimeMins": 12,
+        "servings": 1
+      },
+      "dinner": {
+        "id": "r_038",
+        "title": "Chai-Spiced Oatmeal",
+        "cookTimeMins": 8,
+        "servings": 1
+      }
+    },
+    {
+      "day": "Saturday",
+      "date": "2025-11-27",
+      "lunch": {
+        "id": "r_028",
+        "title": "Chickpea Cucumber Wrap",
+        "cookTimeMins": 5,
+        "servings": 1
+      },
+      "dinner": {
+        "id": "r_019",
+        "title": "Broccoli Lemon Pasta",
+        "cookTimeMins": 12,
+        "servings": 2
+      }
+    },
+    {
+      "day": "Sunday",
+      "date": "2025-11-28",
+      "lunch": {
+        "id": "r_008",
+        "title": "Mediterranean Lentil Salad",
+        "cookTimeMins": 10,
+        "servings": 2
+      },
+      "dinner": {
+        "id": "r_025",
+        "title": "Chive Cottage Cheese Bowl",
+        "cookTimeMins": 5,
+        "servings": 1
+      }
+    }
+  ],
+  "shoppingList": [
+    {
+      "name": "zucchini",
+      "qtySuggested": "2 cups, sliced, 1 cup, diced, 1 cup, grated, 1 cup, grated",
+      "recipes": [
+        "r_004",
+        "r_010",
+        "r_039"
+      ]
+    },
+    {
+      "name": "feta cheese",
+      "qtySuggested": "1/2 cup, crumbled, 1/3 cup, crumbled",
+      "recipes": [
+        "r_004",
+        "r_008"
+      ]
+    },
+    {
+      "name": "olive oil",
+      "qtySuggested": "1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp, 1 tbsp",
+      "recipes": [
+        "r_004",
+        "r_008",
+        "r_010",
+        "r_012",
+        "r_014",
+        "r_019",
+        "r_033",
+        "r_035"
+      ]
+    },
+    {
+      "name": "oregano",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_004"
+      ]
+    },
+    {
+      "name": "salt",
+      "qtySuggested": "to taste, to taste, to taste, to taste",
+      "recipes": [
+        "r_004",
+        "r_010",
+        "r_039"
+      ]
+    },
+    {
+      "name": "black pepper",
+      "qtySuggested": "to taste",
+      "recipes": [
+        "r_004"
+      ]
+    },
+    {
+      "name": "cooked lentils",
+      "qtySuggested": "1.5 cups",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "red onion",
+      "qtySuggested": "1/4 cup, diced",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "lemon juice",
+      "qtySuggested": "1 tbsp",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "parsley",
+      "qtySuggested": "2 tbsp, chopped",
+      "recipes": [
+        "r_008"
+      ]
+    },
+    {
+      "name": "couscous",
+      "qtySuggested": "1 cup",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "bell pepper",
+      "qtySuggested": "1 cup, diced",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "paprika",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_010"
+      ]
+    },
+    {
+      "name": "wholegrain bread",
+      "qtySuggested": "2 slices",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "mushrooms",
+      "qtySuggested": "1 cup, sliced",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "balsamic vinegar",
+      "qtySuggested": "1 tbsp",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "thyme",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_012"
+      ]
+    },
+    {
+      "name": "gnocchi",
+      "qtySuggested": "300g",
+      "recipes": [
+        "r_014"
+      ]
+    },
+    {
+      "name": "spinach",
+      "qtySuggested": "2 cups",
+      "recipes": [
+        "r_014"
+      ]
+    },
+    {
+      "name": "garlic",
+      "qtySuggested": "2 cloves, minced, 4 cloves, roasted, 4 cloves, roasted",
+      "recipes": [
+        "r_014",
+        "r_033"
+      ]
+    },
+    {
+      "name": "parmesan",
+      "qtySuggested": "1/4 cup, 1/4 cup",
+      "recipes": [
+        "r_014",
+        "r_019"
+      ]
+    },
+    {
+      "name": "pasta",
+      "qtySuggested": "200g",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "broccoli",
+      "qtySuggested": "1.5 cups",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "lemon zest",
+      "qtySuggested": "1 tsp",
+      "recipes": [
+        "r_019"
+      ]
+    },
+    {
+      "name": "cottage cheese",
+      "qtySuggested": "1 cup, 1 cup",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "chives",
+      "qtySuggested": "2 tbsp, chopped, 2 tbsp, chopped",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "cucumber",
+      "qtySuggested": "1/2 cup, diced, 1/4 cup, sliced, 1/2 cup, diced, 1/4 cup, sliced",
+      "recipes": [
+        "r_025",
+        "r_028"
+      ]
+    },
+    {
+      "name": "pepper",
+      "qtySuggested": "to taste, to taste",
+      "recipes": [
+        "r_025"
+      ]
+    },
+    {
+      "name": "tortilla wrap",
+      "qtySuggested": "1, 1",
+      "recipes": [
+        "r_028"
+      ]
+    },
+    {
+      "name": "chickpeas",
+      "qtySuggested": "1/2 cup, mashed, 1/2 cup, mashed",
+      "recipes": [
+        "r_028"
+      ]
+    },
+    {
+      "name": "yogurt",
+      "qtySuggested": "2 tbsp, 2 tbsp",
+      "recipes": [
+        "r_028"
+      ]
+    },
+    {
+      "name": "dill",
+      "qtySuggested": "1 tsp, 1 tsp",
+      "recipes": [
+        "r_028"
+      ]
+    },
+    {
+      "name": "polenta",
+      "qtySuggested": "1 cup, 1 cup",
+      "recipes": [
+        "r_029"
+      ]
+    },
+    {
+      "name": "onions",
+      "qtySuggested": "2, thinly sliced, 2, thinly sliced",
+      "recipes": [
+        "r_029"
+      ]
+    },
+    {
+      "name": "butter",
+      "qtySuggested": "1 tbsp, 1 tbsp",
+      "recipes": [
+        "r_029"
+      ]
+    },
+    {
+      "name": "vegetable broth",
+      "qtySuggested": "3 cups, 3 cups",
+      "recipes": [
+        "r_029"
+      ]
+    },
+    {
+      "name": "tomatoes",
+      "qtySuggested": "1 cup, diced, 1 cup, diced",
+      "recipes": [
+        "r_033"
+      ]
+    },
+    {
+      "name": "basil",
+      "qtySuggested": "1/4 cup, chopped, 1/4 cup, chopped",
+      "recipes": [
+        "r_033"
+      ]
+    },
+    {
+      "name": "bread",
+      "qtySuggested": "4 slices, 4 slices",
+      "recipes": [
+        "r_033"
+      ]
+    },
+    {
+      "name": "roasted beetroot",
+      "qtySuggested": "1 cup, cubed, 1 cup, cubed",
+      "recipes": [
+        "r_035"
+      ]
+    },
+    {
+      "name": "feta",
+      "qtySuggested": "1/3 cup, crumbled, 1/3 cup, crumbled",
+      "recipes": [
+        "r_035"
+      ]
+    },
+    {
+      "name": "walnuts",
+      "qtySuggested": "2 tbsp, chopped, 2 tbsp, chopped",
+      "recipes": [
+        "r_035"
+      ]
+    },
+    {
+      "name": "rolled oats",
+      "qtySuggested": "1/2 cup, 1/2 cup",
+      "recipes": [
+        "r_038"
+      ]
+    },
+    {
+      "name": "milk or plant milk",
+      "qtySuggested": "1 cup, 1 cup",
+      "recipes": [
+        "r_038"
+      ]
+    },
+    {
+      "name": "cinnamon",
+      "qtySuggested": "1/2 tsp, 1/2 tsp",
+      "recipes": [
+        "r_038"
+      ]
+    },
+    {
+      "name": "cardamom",
+      "qtySuggested": "1/4 tsp, 1/4 tsp",
+      "recipes": [
+        "r_038"
+      ]
+    },
+    {
+      "name": "honey",
+      "qtySuggested": "1 tsp, 1 tsp",
+      "recipes": [
+        "r_038"
+      ]
+    },
+    {
+      "name": "corn kernels",
+      "qtySuggested": "1 cup, 1 cup",
+      "recipes": [
+        "r_039"
+      ]
+    },
+    {
+      "name": "flour",
+      "qtySuggested": "1/2 cup, 1/2 cup",
+      "recipes": [
+        "r_039"
+      ]
+    },
+    {
+      "name": "egg",
+      "qtySuggested": "1, 1",
+      "recipes": [
+        "r_039"
+      ]
+    }
+  ],
+  "feedback": {},
+  "metadata": {
+    "recipesUsed": [
+      "r_004",
+      "r_010",
+      "r_014",
+      "r_025",
+      "r_029",
+      "r_035",
+      "r_039",
+      "r_033",
+      "r_012",
+      "r_038",
+      "r_028",
+      "r_019",
+      "r_008",
+      "r_025"
+    ],
+    "totalItems": 50
+  }
+}
