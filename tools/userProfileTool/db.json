@@ -4,13 +4,11 @@
     "name": "Melani Ortega",
     "email": "melani@example.com",
     "preferences": {
-      "dietary": [
-        "vegetarian"
-      ],
+      "dietary": [],
       "avoidIngredients": [
         "tofu",
-        "fish & seafood",
-        "olives"
+        "olives",
+        "fish & seafood"
       ],
       "maxCookMins": 30
     }

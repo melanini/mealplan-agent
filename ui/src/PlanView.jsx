@@ -412,9 +412,17 @@ function PlanView({ plan, setPlan, logs, addLog }) {
               
               <div className="recipe-details-header">
                 <h2>{recipeDetails.title}</h2>
+                {recipeDetails.generatedFrom === 'web_search' && (
+                  <div className="web-source-badge">
+                    🌐 Real Recipe from Web
+                  </div>
+                )}
                 <div className="recipe-details-meta">
                   <span>🕐 {recipeDetails.cookTimeMins || recipeDetails.cook_time_minutes} minutes</span>
                   <span>👥 {recipeDetails.servings} servings</span>
+                  {recipeDetails.rating && (
+                    <span>⭐ {recipeDetails.rating} ({recipeDetails.reviewCount || 0} reviews)</span>
+                  )}
                   {recipeDetails.tags && recipeDetails.tags.length > 0 && (
                     <div className="recipe-tags">
                       {recipeDetails.tags.map((tag, idx) => (
@@ -423,6 +431,13 @@ function PlanView({ plan, setPlan, logs, addLog }) {
                     </div>
                   )}
                 </div>
+                {recipeDetails.sourceUrl && (
+                  <div className="source-link">
+                    <a href={recipeDetails.sourceUrl} target="_blank" rel="noopener noreferrer">
+                      📖 View Original Recipe
+                    </a>
+                  </div>
+                )}
               </div>
 
               <div className="recipe-details-body">

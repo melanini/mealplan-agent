@@ -6,6 +6,7 @@ const axios = require('axios');
 const { compactFeedbackToProfile, mergePreferences } = require('./compaction');
 const { analyzeWasteReduction } = require('./wasteReductionWrapper');
 const { analyzeBalancedDiet, formatHistoryFromPlans } = require('./balancedDietWrapper');
+const { generateRecipeFromWeb } = require('./recipeGeneratorWrapper');
 
 const app = express();
 app.use(cors());
@@ -75,6 +76,82 @@ async function fetchRecipes(maxCookMins, tags = [], exclude = []) {
     console.error('Failed to fetch recipes:', err.message);
     return [];
   }
+}
+
+/**
+ * Generate recipes using Google Search (web-based recipes)
+ * Falls back to local recipes if web search fails
+ */
+async function generateRecipesFromWeb(count, userPreferences) {
+  const {
+    diet = 'any',
+    avoidIngredients = [],
+    maxCookMins = 30,
+    servings = 2,
+    dietary = []
+  } = userPreferences;
+
+  console.log(`[${new Date().toISOString()}] generating_recipes_from_web count=${count} diet=${diet}`);
+
+  const recipes = [];
+  const errors = [];
+
+  // Generate recipes in parallel (limit to avoid overwhelming the system)
+  const batchSize = 3;
+  for (let i = 0; i < count; i += batchSize) {
+    const batch = [];
+    const batchCount = Math.min(batchSize, count - i);
+
+    for (let j = 0; j < batchCount; j++) {
+      const style = dietary.length > 0 ? dietary.join(', ') : 'any cuisine';
+      
+      batch.push(
+        generateRecipeFromWeb({
+          diet,
+          avoidIngredients,
+          maxCookMins,
+          servings,
+          style
+        }).catch(err => {
+          errors.push(err.message);
+          return null;
+        })
+      );
+    }
+
+    const batchResults = await Promise.all(batch);
+    recipes.push(...batchResults.filter(r => r !== null));
+    
+    // Small delay between batches to avoid rate limiting
+    if (i + batchSize < count) {
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+  }
+
+  if (recipes.length === 0) {
+    console.warn(`[${new Date().toISOString()}] web_search_failed, falling_back_to_local errors=${errors.length}`);
+    // Fallback to local recipes
+    const localRecipes = await fetchRecipes(maxCookMins, dietary, avoidIngredients);
+    return localRecipes;
+  }
+
+  console.log(`[${new Date().toISOString()}] recipes_generated_from_web count=${recipes.length} errors=${errors.length}`);
+  
+  // Transform web recipes to match expected format
+  return recipes.map((recipe, idx) => ({
+    id: recipe.id || `web_${Date.now()}_${idx}`,
+    title: recipe.title,
+    ingredients: recipe.ingredients || [],
+    steps: recipe.steps || [],
+    cookTimeMins: recipe.cookTimeMins || recipe.cook_time_minutes || maxCookMins,
+    tags: recipe.tags || dietary,
+    servings: recipe.servings || servings,
+    sourceUrl: recipe.sourceUrl || null,
+    rating: recipe.rating || null,
+    reviewCount: recipe.reviewCount || null,
+    nutrition: recipe.nutrition || null,
+    generatedFrom: 'web_search'
+  }));
 }
 
 async function aggregateShoppingList(recipeIds) {
@@ -179,10 +256,19 @@ app.post('/plan/generate', async (req, res) => {
     const maxCookMins = profile.preferences?.maxCookMins || 30;
     const dietaryTags = profile.preferences?.dietary || [];
     const avoidIngredients = profile.preferences?.avoidIngredients || [];
+    const diet = profile.preferences?.diet || 'any';
+    const servings = profile.preferences?.servings || 2;
 
-    console.log(`[${new Date().toISOString()}] fetching_recipes maxCookMins=${maxCookMins} tags=${dietaryTags.join(',')}`);
+    console.log(`[${new Date().toISOString()}] generating_recipes using_web_search diet=${diet} maxCookMins=${maxCookMins}`);
     
-    const candidates = await fetchRecipes(maxCookMins, dietaryTags, avoidIngredients);
+    // Use web search to generate recipes (14 recipes: 2 per day for 7 days)
+    const candidates = await generateRecipesFromWeb(14, {
+      diet,
+      avoidIngredients,
+      maxCookMins,
+      servings,
+      dietary: dietaryTags
+    });
 
     if (candidates.length === 0) {
       return res.status(404).json({ 
@@ -466,13 +552,23 @@ app.post('/plan/:planId/replace', async (req, res) => {
     const maxCookMins = profile.preferences?.maxCookMins || 30;
     const dietaryTags = profile.preferences?.dietary || [];
     const avoidIngredients = profile.preferences?.avoidIngredients || [];
+    const diet = profile.preferences?.diet || 'any';
+    const servings = profile.preferences?.servings || 2;
 
     // Get all currently used recipe IDs to avoid duplicates
     const usedRecipeIds = plan.weekPlan.flatMap(d => [d.lunch.id, d.dinner.id]);
     const currentRecipeId = dayPlan[mealType].id;
 
-    // Fetch candidate recipes
-    const candidates = await fetchRecipes(maxCookMins, dietaryTags, avoidIngredients);
+    console.log(`[${new Date().toISOString()}] generating_replacement_recipe using_web_search`);
+    
+    // Generate alternative recipes using web search
+    const candidates = await generateRecipesFromWeb(3, {
+      diet,
+      avoidIngredients,
+      maxCookMins,
+      servings,
+      dietary: dietaryTags
+    });
 
     if (candidates.length === 0) {
       return res.status(404).json({ error: 'No alternative recipes found' });

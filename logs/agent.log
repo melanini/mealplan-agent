@@ -8,3 +8,11 @@ Tool endpoints configured: userProfile=http://localhost:3000, recipe=http://loca
 [2025-11-22T17:51:50.347Z] recipe_replaced planId=plan_1763833611388_13t798wes day=Wednesday mealType=lunch oldRecipe=r_029 newRecipe=r_004
 [2025-11-22T18:04:47.613Z] recipe_replace_requested planId=plan_1763833611388_13t798wes day=Wednesday mealType=lunch
 [2025-11-22T18:04:47.623Z] recipe_replaced planId=plan_1763833611388_13t798wes day=Wednesday mealType=lunch oldRecipe=r_004 newRecipe=r_029
+[2025-11-22T19:17:46.962Z] plan_generation_started for user: melani-123
+[2025-11-22T19:17:46.964Z] fetching_recipes maxCookMins=30 tags=vegetarian
+[2025-11-22T19:17:46.966Z] aggregating_shopping_list recipes=14
+[2025-11-22T19:17:46.969Z] plan_generated planId=plan_1763839066969_flmuqh1rb userId=melani-123 recipes=14 shoppingItems=50
+[2025-11-22T19:26:37.520Z] plan_generation_started for user: melani-123
+[2025-11-22T19:26:37.523Z] fetching_recipes maxCookMins=30 tags=
+[2025-11-22T19:26:37.527Z] aggregating_shopping_list recipes=14
+[2025-11-22T19:26:37.531Z] plan_generated planId=plan_1763839597530_heggbomhq userId=melani-123 recipes=14 shoppingItems=42
